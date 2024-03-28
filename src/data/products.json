@@ -1,0 +1,25 @@
+[
+    {
+        "name": "BOTINES",
+        "id": 1,
+        "category": "Futbol",
+        "detail": "lorem lorem",
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/658191-1200-1200?width=1200&height=1200&aspect=true"
+    },
+
+    {
+        "name": "ZAPATILLAS RUNNING",
+        "id": 2,
+        "category": "Running",
+        "detail": "lorem lorem",
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/658191-1200-1200?width=1200&height=1200&aspect=true"
+    },
+
+    {
+        "name": "ZAPATILLAS FACHA",
+        "id": 3,
+        "category": "Moda",
+        "detail": "lorem lorem",
+        "img": "https://nikearprod.vtexassets.com/arquivos/ids/658191-1200-1200?width=1200&height=1200&aspect=true"
+    }
+]
